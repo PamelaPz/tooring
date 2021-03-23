@@ -1,0 +1,8 @@
+.heigth_img {
+    width: auto;
+    height: 6rem !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    filter: grayscale(1) brightness(0) invert(1);
+}
