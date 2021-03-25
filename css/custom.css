@@ -6,3 +6,17 @@
     justify-content: center;
     filter: grayscale(1) brightness(0) invert(1);
 }
+.logo img{
+    filter: grayscale(1) invert(1);
+}
+#Top_bar #logo img {
+    max-height: 80px !important;
+}
+#Top_bar #logo img.logo-sticky {
+    max-height: 40px !important;
+}
+
+
+.wrappper_logoF img {
+    width: 12rem !important;
+}
