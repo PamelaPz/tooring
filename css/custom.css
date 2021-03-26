@@ -20,3 +20,33 @@
 .wrappper_logoF img {
     width: 12rem !important;
 }
+
+
+.fullwidthbanner-container .fullwidthabanner,
+.fullwidthbanner-container {
+    height: 100vh !important;
+}
+.tp-caption img {
+    width: auto !important;
+    /* height: 80vh !important; */
+}
+@media screen and (max-width: 768px) {
+    .div#slide-1-layer-1 img{
+        height: 100vh;
+    }
+    .circle_img {
+        height: 100%;
+    }
+    #Top_bar #logo img {
+        max-height: 45px !important;
+    }
+    .wrappper_logoF img {
+        width: 3.5rem !important;
+    }
+    .wrappper_logoF  {
+        text-align: left !important;
+    }
+    /* img#client {
+        height: 5rem;
+    } */
+}
